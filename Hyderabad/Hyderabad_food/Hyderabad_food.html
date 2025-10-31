@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>DC_Nav - Hyderabad Foods Checklist</title>
+  <link rel="stylesheet" href="../../style2.css">
+</head>
+<body>
+  <nav>
+    <h2>DC_Nav</h2>
+    <div class="nav-links">
+      <a href="../../index.html">Home</a>
+      <a href="../../about.html">About</a>
+      <a href="../Hyderabad.html">Hyderabad</a>
+    </div>
+  </nav>
+
+  <h1>🍴 Hyderabad’s Food Checklist</h1>
+  <ul id="checklist">Loading...</ul>
+
+  <script type="module">
+    import { loadChecklist } from './render.js';
+    loadChecklist("checklist", "./hyderabad_food_data.json");
+  </script>
+
+</body>
+</html>

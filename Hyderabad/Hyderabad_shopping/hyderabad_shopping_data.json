@@ -1,0 +1,39 @@
+ {
+    "places": [
+      {
+        "ID_I": 1,
+        "Name": "Koti Market",
+        "location": "Books Street",
+        "comment": "Famous for its wide range of bookshops and literary culture",
+        "image": "images/1.png"
+      },
+      {
+        "ID_I": 2,
+        "Name": "Choodi Baazar",
+        "location": "Jwellery Market",
+        "comment": "Known for its vibrant bangles and traditional jewelry",
+        "image": "images/2.png"
+      },
+      {
+        "ID_I": 3,
+        "Name": "Begam Bazar",
+        "location": "Gift Items Market",
+        "comment": "Popular for its diverse range of gift items and souvenirs",
+        "image": "images/3.png"
+      },
+      {
+        "ID_I": 4,
+        "Name": "Modi Perals",
+        "location": "Charminar",
+        "comment": "Famous for its exquisite pearl jewelry and accessories",
+        "image": "images/4.png"
+      },
+      {
+        "ID_I": 5,
+        "Name": "Ameerpet",
+        "location": "Street Shopping",
+        "comment": "Known for its affordable street shopping and trendy fashion",
+        "image": "images/5.png"
+      }
+    ]
+  }

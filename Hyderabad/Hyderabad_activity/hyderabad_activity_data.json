@@ -1,0 +1,44 @@
+ {
+    "places": [
+      {
+        "ID_I": 1,
+        "Name": "Mystery Room",
+        "location": "Jubilee Hills",
+        "rating": 4.8,
+        "comment": "Exciting escape room experience",
+        "image": "images/1.png"
+      },
+      {
+        "ID_I": 2,
+        "Name": "Trampoline Park",
+        "location": "Fly zone, Kokapet",
+        "rating": 4.6,
+        "comment": "Jump and have fun",
+        "image": "images/2.png"
+      },
+      {
+        "ID_I": 3,
+        "Name": "Paintball Arena",
+        "location": "District Gravity, Bommarasipet",
+        "rating": 4.7,
+        "comment": "Thrilling paintball matches",
+        "image": "images/3.png"
+      },
+      {
+        "ID_I": 4,
+        "Name": "Go Karting Track",
+        "location": "Samshabad Circuit",
+        "rating": 4.3,
+        "comment": "High-speed kart racing",
+        "image": "images/4.png"
+      },
+      {
+        "ID_I": 5,
+        "Name": "Wonderlaaa Amusement Park",
+        "location": "Near Hyderabad Airport",
+        "rating": 4.5,
+        "comment": "Fun rides and water slides",
+        "image": "images/5.png"
+      }
+    ]
+  }

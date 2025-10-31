@@ -1,0 +1,46 @@
+ {
+    "places": [
+      {
+        "ID_I": 1,
+        "Name": "Chilkur Balaji Temple",
+        "location": "Osamaan Sagar Road",
+        "comment": "Famous for fulfilling devotees' wishes",
+        "image": "images/1.png"
+      },
+      {
+        "ID_I": 2,
+        "Name": "TTD + Jagannath Puri",
+        "location": "Jubilee Hills",
+        "comment": "Replica of the original temple in Tirupati and Puri",
+        "image": "images/2.png"
+      },
+      {
+        "ID_I": 3,
+        "Name": "Birla Mandir",
+        "location": "Hilltop, Adarsh Nagar",
+        "comment": "Built with white marble, offers panoramic city views",
+        "image": "images/3.png"
+      },
+      {
+        "ID_I": 4,
+        "Name": "Pedamma gudi Temple ",
+        "location": "Kukatpally",
+        "comment": "Known for its vibrant festivals and rituals",
+        "image": "images/4.png"
+      },
+      {
+        "ID_I": 5,
+        "Name": "Yadagirigutta Temple",
+        "location": "Yadagirigutta",
+        "comment": "Dedicated to Lord Narasimha, a popular pilgrimage site",
+        "image": "images/5.png"
+      },
+      {
+        "ID_I": 6,
+        "Name": "Swarnagiri temple",
+        "location": "Swarnagiri",
+        "comment": "Ancient temple with rich history and architecture",
+        "image": "images/6.png"
+      }
+    ]
+  }
