@@ -113,7 +113,7 @@ function renderChecklist(container, foods, completed) {
           <li data-id="${loc.id}" class="${isChecked ? "done" : ""}">
             <label>
               <input type="checkbox" data-id="${loc.id}" ${isChecked ? "checked" : ""}>
-              <span><b>${loc.name}</b> — <span class="location">${loc.location}</span></span>
+              <span><b>${loc.name}</b> | <span class="location">${loc.location}</span> | 📍 <a href="${loc.link}" target="_blank" class="map-link">Click for Location</a> </span>
             </label>
           </li>
         `;

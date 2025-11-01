@@ -7,9 +7,10 @@
         "name": "Chai + Bun Maska",
         "categories": ["Snacks", "Veg"],
         "location": [
-        { "id": 11,  "name": "Niloufer Cafe", "location": "Banjara Hills"},
-        { "id": 12,  "name": "Nimrah Cafe", "location": "Charminar, Old Hyderabad"},
-        { "id": 13,  "name": "Blue Sea", "location": "Secundarbad"}
+        { "id": 11,  "name": "Niloufer Cafe", "location": "Banjara Hills", "link" : "https://maps.app.goo.gl/pqPXHwJSUEu1E7sm6" },
+        { "id": 12,  "name": "Nimrah Cafe", "location": "Charminar, Old Hyderabad", "link" : "https://maps.app.goo.gl/LVciPLFH4Wwj2bVx6"},
+        { "id": 13,  "name": "Blue Sea Tea", "location": "Secundarbad", "link" : "https://maps.app.goo.gl/Xt3AGTkhAqMjU79S7"},
+        { "id": 14,  "name": "Naintara Cafe", "location": "Hitech City", "link" : "https://maps.app.goo.gl/ijMYKVSCFDm2StYA6"}
           ],
         "comment": "Consisting of a soft, sweet bun generously slathered with butter (maska) and served with a cup of hot tea",
         "image": "images/1.png"
@@ -17,11 +18,14 @@
       {
         "ID_I": 2,
         "name": "Mandi",
-        "categories": ["Main Course", "Non-Veg","Veg"],
+        "categories": ["Main Course", "Non-Veg"],
         "location": [
-        { "id": 21,  "name": "Joint Al mandi", "location": "Hitech City"},
-        { "id": 22,  "name": "Spice 6", "location": "Road no. 12"},
-        { "id": 23,  "name": "Yam Yam Tree", "location": "Madhapur"}
+        { "id": 21,  "name": "Joint Al Mandi", "location": "Hitech City", "link" : "https://maps.app.goo.gl/3APZJDXYhP4coboz9"},
+        { "id": 22,  "name": "Spice 6", "location": "Banjara Hills", "link" : "https://maps.app.goo.gl/QTgWkMgAUfmGoakn9"},
+        { "id": 23,  "name": "Azebo", "location": "Lakdikapul", "link" : "https://maps.app.goo.gl/yFEh16vsQEwjMei16"},
+        { "id": 24,  "name": "Spudato", "location": "Gachibowli", "link" : "https://maps.app.goo.gl/8S5NdtjMZkfMZu5k9"},
+        { "id": 25,  "name": "Special 9", "location": "Gachibowli", "link" : "https://maps.app.goo.gl/rjTc2GLHCB98gXDJ6"},
+        { "id": 26,  "name": "Girlfriend Mandi", "location": "Hitech City", "link" : "https://maps.app.goo.gl/pXNQEaWUAanttemP6"}
           ],
         "comment": "A traditional Yemeni dish of slow-cooked meat (often lamb or chicken) served over aromatic, spiced rice",
         "image": "images/2.png"
@@ -29,11 +33,14 @@
       {
         "ID_I": 3,
         "name": "Hyderbadi Dum Biryani",
-        "categories": ["Main Course", "Non-Veg", "Veg"],
+        "categories": ["Main Course", "Non-Veg"],
         "location": [
-        { "id": 31,  "name": "Shah Ghouse Biryani", "location": "Charminar, Old Hyderabad"},
-        { "id": 32,  "name": "Peshawar Restaraunt", "location": "Lakdikapul"},
-        { "id": 33,  "name": "Meridian Biryani", "location": "Panjagutta"}
+        { "id": 31,  "name": "Shahdaab", "location": "Charminar, Old Hyderabad", "link" : "https://maps.app.goo.gl/x1bfpchM8asf7o6u6"},
+        { "id": 32,  "name": "Peshawar Restaraunt", "location": "Lakdikapul", "link" : "https://maps.app.goo.gl/WoXLiQaGc84SyK548"},
+        { "id": 33,  "name": "Meridian Biryani", "location": "Panjagutta", "link" : "https://maps.app.goo.gl/aBF8rp4SSgXTbuVw6"},
+        { "id": 34,  "name": "Mehfill", "location": "Hitech City", "link" : "https://maps.app.goo.gl/RX4LqC6asw1mjWot7"},
+        { "id": 35,  "name": "Nawaab's Restaurant", "location": "Gachibowli", "link" : "https://maps.app.goo.gl/tzqWrE5hWxNBDMn38"},
+        { "id": 36,  "name": "Sarvi Restaurant", "location": "Ambedkar Nagar", "link" : "https://maps.app.goo.gl/UjuJZRCMXssupbEv5"}
           ],
         "comment": "Famous Hyderabadi Chicken Biryani",
         "image": "images/3.png"
@@ -43,11 +50,16 @@
         "name": "Tiffin",
         "categories": ["Main Course", "Veg"],
         "location": [
-        { "id": 41,  "name": "Ram ki Bandi", "location": "Hitech City"},
-        { "id": 42,  "name": "Nani's tiffin", "location": "Khairatabad"},
-        { "id": 43,  "name": "Chutneys", "location": "Hitech City"}
+        { "id": 41,  "name": "Rameshwaram Cafe", "location": "Hitech City", "link" : "https://maps.app.goo.gl/LZ5BUhk4RG2uCDb18"},
+        { "id": 42,  "name": "Nani's tiffin", "location": "Jubliee Hills", "link" : "https://maps.app.goo.gl/QZgjf3NefjVcBWvm8"},
+        { "id": 43,  "name": "Chutneys", "location": "Hitech City", "link" : "https://maps.app.goo.gl/r2bki9FizE4xiAXR7"},
+        { "id": 44,  "name": "Varalakshmi Tiffins", "location": "DLF Cybercity", "link" : "https://maps.app.goo.gl/RaGmrugLkzkB9cAi6"},
+        { "id": 45,  "name": "Ram ki Bandi", "location": "KBR Park", "link" : "https://maps.app.goo.gl/F8Wggu8BVbpg9Lz5A"},
+        { "id": 46,  "name": "Panchakattu Dosa", "location": "100 ft Road", "link" : "https://maps.app.goo.gl/gf58KwiFrb1DF6Xv6"},
+        { "id": 47,  "name": "Swach South Indian Cafe", "location": "100 ft Road", "link" : "https://maps.app.goo.gl/kPbvHot5Y31exHgH7"},
+        { "id": 48,  "name": "Glori Dosa", "location": "Madeenaguda", "link" : "https://maps.app.goo.gl/FWDAer161uWgBdCL7"}
           ],
-        "comment": "Must-try Ghee Karam Dosa and Tatte Idli",
+        "comment": "Must-try Ghee Karam Dosa, Tatte Idli and Medu Vada",
         "image": "images/4.png"
       },
       {
@@ -55,9 +67,9 @@
         "name": "Apricot Delight",
         "categories": ["Dessert", "Veg"],
         "location": [
-        { "id": 51,  "name": "Spicy Venue", "location": "Jubliee Hills"},
-        { "id": 52,  "name": "House of Bagaara", "location": "Inorbit Mall"},
-        { "id": 53,  "name": "Pakka Local", "location": "Kondapur"}
+        { "id": 51,  "name": "Spicy Venue", "location": "Jubliee Hills", "link" : "https://maps.app.goo.gl/yFfKFNUqFg6fKSvm9"},
+        { "id": 52,  "name": "House of Bagaara", "location": "Inorbit Mall", "link" : "https://maps.app.goo.gl/zXUE3s3ZPw3xRjNr6s"},
+        { "id": 53,  "name": "Pakka Local", "location": "Kondapur", "link" : "https://maps.app.goo.gl/tKbioNRV2TCFPy1M9"}
           ],
         "comment": "Is a modern twist on the classic Qubani ka Meetha",
         "image": "images/5.png"
@@ -67,8 +79,8 @@
         "name": "Mulberry Malai",
         "categories": ["Dessert", "Veg"],
         "location": [
-        { "id": 61,  "name": "Milan juice Centre", "location": "Charminar, Old Hyderabad"},
-        { "id": 62,  "name": "Nice juice Centre", "location": "Toli Chowki"}
+        { "id": 61,  "name": "Milan juice Centre", "location": "Charminar, Old Hyderabad", "link" : "https://maps.app.goo.gl/67Zv5SYFxm9chgng9"},
+        { "id": 62,  "name": "Nice juice Centre", "location": "Toli Chowki", "link" : "https://maps.app.goo.gl/8RyYvhjFh3tWQbJD8"}
           ],
         "comment": "Mixing fresh mulberries (Shahtoot) with a creamy base",
         "image": "images/6.png"
@@ -78,12 +90,48 @@
         "name": "Chaats",
         "categories": ["Snacks", "Veg"],
         "location": [
-        { "id": 71,  "name": "Maharaja Chaat", "location": "Kavuri hills"},
-        { "id": 72,  "name": "Naintara Cafe", "location": "Hitech City"},
-        { "id": 73,  "name": "Gokul Chaat", "location": "Koti"}
+        { "id": 71,  "name": "Maharaja Chaat", "location": "Kavuri hills", "link" : "https://maps.app.goo.gl/q5chRtYD2pPgiGhC7"},
+        { "id": 72,  "name": "Naintara Cafe", "location": "Hitech City", "link" : "https://maps.app.goo.gl/ijMYKVSCFDm2StYA6"},
+        { "id": 73,  "name": "Gokul Chaat", "location": "Koti", "link" : "https://maps.app.goo.gl/iGHg6AdW99H4Q2AGA"}
           ],
         "comment": "Known for their explosion of flavors and textures, including sweet, tangy, spicy, and crunchy elements",
         "image": "images/7.png"
+      },
+      {
+        "ID_I": 8,
+        "name": "Tres Leches",
+        "categories": ["Dessert", "Veg"],
+        "location": [
+        { "id": 81,  "name": "Roast 24 Seven", "location": "Gachibowli", "link" : "https://maps.app.goo.gl/E1HJtt9h527c5Xav7"},
+        { "id": 82,  "name": "Magnolia Bakery", "location": "Jubliee Hills", "link" : "https://maps.app.goo.gl/X7xvsCcPi3bcNzpt5"}
+          ],
+        "comment": "A moist, light sponge cake soaked in a mixture of three different kinds of milk, Ayushi Approved",
+        "image": "images/8.png"
+      },
+       {
+        "ID_I": 9,
+        "name": "Haleem",
+        "categories": ["Main Course", "Non-Veg"],
+        "location": [
+        { "id": 91,  "name": "Pista House", "location": "Gachibowli", "link" : "https://maps.app.goo.gl/tefk6Hh3HqTNGMkF9"},
+        { "id": 92,  "name": "Grill 9", "location": "Secundarbad", "link" : "https://maps.app.goo.gl/LthrHs47QvxJLrgy8"},
+        { "id": 93,  "name": "Sarvi", "location": "Ambedkar Nagar", "link" : "https://maps.app.goo.gl/PaJoUXTd3pAGjiu37"},
+        { "id": 94,  "name": "Cafe 555", "location": "Banjara Hills", "link" : "https://maps.app.goo.gl/kvpmfqSLtUaQhb1V6"}
+          ],
+        "comment": "Stew composed of meat, lentils, and pounded wheat made into a thick paste",
+        "image": "images/9.png"
+      },
+      {
+        "ID_I": 10,
+        "name": "Shawarma",
+        "categories": ["Snacks", "Non-Veg"],
+        "location": [
+        { "id": 101,  "name": "Seasons Xpress", "location": "Banjara Hills", "link" : "https://maps.app.goo.gl/vRFmbzJY1agF5fRcA"},
+        { "id": 102,  "name": "Siddique Kabab Centre", "location": "Kukatpally", "link" : "https://maps.app.goo.gl/8nuiipfYVZfD3oh99"},
+        { "id": 103,  "name": "Angara", "location": "Miyapur", "link" : "https://maps.app.goo.gl/rf9U6Q8p7CQeTnAU8s"}
+          ],
+        "comment": "Meat Sandwich in a wrap or pita, often with vegetables, spices, and a sauce like tahini. ",
+        "image": "images/10.png"
       }
     ]
   }
