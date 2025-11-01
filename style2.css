@@ -100,3 +100,33 @@ body {
   object-fit: cover;
   border-radius: 8px;
 }
+
+#categoryFilter {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 12px;
+  background: #ffffff;
+  padding: 10px 16px;
+  margin-top: 16px;
+  border-radius: 8px;
+  box-shadow: 0 1px 4px rgba(0,0,0,0.1);
+}
+
+.category-radios label {
+  background: #f4f6f8;
+  border: 1px solid #ccc;
+  padding: 6px 12px;
+  border-radius: 20px;
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.category-radios label:hover {
+  background: #0078d7;
+  color: white;
+}
+
+.category-radios input {
+  display: none;
+}

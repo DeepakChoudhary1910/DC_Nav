@@ -1,0 +1,44 @@
+ {
+    "places": [
+      {
+        "ID_I": 1,
+        "Name": "Niloufer Cafe",
+        "location": "Banjara Hills",
+        "rating": 4.8,
+        "comment": "Famous for Chai + Bun Maska",
+        "image": "images/1.png"
+      },
+      {
+        "ID_I": 2,
+        "Name": "Joint Al Mandi",
+        "location": "Hitech City",
+        "rating": 4.6,
+        "comment": "Authentic Arabian Mandi dishes",
+        "image": "images/2.png"
+      },
+      {
+        "ID_I": 3,
+        "Name": "Shah Ghouse Biryani",
+        "location": "Charminar, Old Hyderabad",
+        "rating": 4.7,
+        "comment": "Famous Hyderabadi Chicken Biryani",
+        "image": "images/3.png"
+      },
+      {
+        "ID_I": 4,
+        "Name": "Varalakshmi Tiffins",
+        "location": "DLF Cybercity",
+        "rating": 4.3,
+        "comment": "Must-try Ghee Karam Dosa",
+        "image": "images/4.png"
+      },
+      {
+        "ID_I": 5,
+        "Name": "Spicy Venue",
+        "location": "Jubilee Hills",
+        "rating": 4.5,
+        "comment": "Dessert speciality — Apricot Delight",
+        "image": "images/5.png"
+      }
+    ]
+  }

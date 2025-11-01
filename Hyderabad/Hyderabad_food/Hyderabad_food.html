@@ -16,12 +16,16 @@
     </div>
   </nav>
 
+  <div id="categoryFilter"></div>
   <h1>🍴 Hyderabad’s Food Checklist</h1>
   <ul id="checklist">Loading...</ul>
 
+  
+  <ul id="checklist"></ul>
+
   <script type="module">
     import { loadChecklist } from './render.js';
-    loadChecklist("checklist", "./hyderabad_food_data.json");
+    loadChecklist('checklist', 'hyderabad_food_data.json', 'categoryFilter');
   </script>
 
 </body>
