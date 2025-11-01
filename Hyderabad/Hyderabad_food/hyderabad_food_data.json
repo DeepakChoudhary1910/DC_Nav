@@ -7,9 +7,9 @@
         "name": "Chai + Bun Maska",
         "categories": ["Snacks", "Veg"],
         "location": [
-        { "id": 1,  "name": "Niloufer Cafe", "location": "Banjara Hills"},
-        { "id": 2,  "name": "Nimrah Cafe", "location": "Charminar, Old Hyderabad"},
-        { "id": 3,  "name": "Blue Sea", "location": "Secundarbad"}
+        { "id": 11,  "name": "Niloufer Cafe", "location": "Banjara Hills"},
+        { "id": 12,  "name": "Nimrah Cafe", "location": "Charminar, Old Hyderabad"},
+        { "id": 13,  "name": "Blue Sea", "location": "Secundarbad"}
           ],
         "comment": "Consisting of a soft, sweet bun generously slathered with butter (maska) and served with a cup of hot tea",
         "image": "images/1.png"
@@ -19,9 +19,9 @@
         "name": "Mandi",
         "categories": ["Main Course", "Non-Veg","Veg"],
         "location": [
-        { "id": 1,  "name": "Joint Al mandi", "location": "Hitech City"},
-        { "id": 2,  "name": "Spice 6", "location": "Road no. 12"},
-        { "id": 3,  "name": "Yam Yam Tree", "location": "Madhapur"}
+        { "id": 21,  "name": "Joint Al mandi", "location": "Hitech City"},
+        { "id": 22,  "name": "Spice 6", "location": "Road no. 12"},
+        { "id": 23,  "name": "Yam Yam Tree", "location": "Madhapur"}
           ],
         "comment": "A traditional Yemeni dish of slow-cooked meat (often lamb or chicken) served over aromatic, spiced rice",
         "image": "images/2.png"
@@ -31,9 +31,9 @@
         "name": "Hyderbadi Dum Biryani",
         "categories": ["Main Course", "Non-Veg", "Veg"],
         "location": [
-        { "id": 1,  "name": "Shah Ghouse Biryani", "location": "Charminar, Old Hyderabad"},
-        { "id": 2,  "name": "Peshawar Restaraunt", "location": "Lakdikapul"},
-        { "id": 3,  "name": "Meridian Biryani", "location": "Panjagutta"}
+        { "id": 31,  "name": "Shah Ghouse Biryani", "location": "Charminar, Old Hyderabad"},
+        { "id": 32,  "name": "Peshawar Restaraunt", "location": "Lakdikapul"},
+        { "id": 33,  "name": "Meridian Biryani", "location": "Panjagutta"}
           ],
         "comment": "Famous Hyderabadi Chicken Biryani",
         "image": "images/3.png"
@@ -43,9 +43,9 @@
         "name": "Tiffin",
         "categories": ["Main Course", "Veg"],
         "location": [
-        { "id": 1,  "name": "Ram ki Bandi", "location": "Hitech City"},
-        { "id": 2,  "name": "Nani's tiffin", "location": "Khairatabad"},
-        { "id": 3,  "name": "Chutneys", "location": "Hitech City"}
+        { "id": 41,  "name": "Ram ki Bandi", "location": "Hitech City"},
+        { "id": 42,  "name": "Nani's tiffin", "location": "Khairatabad"},
+        { "id": 43,  "name": "Chutneys", "location": "Hitech City"}
           ],
         "comment": "Must-try Ghee Karam Dosa and Tatte Idli",
         "image": "images/4.png"
@@ -55,9 +55,9 @@
         "name": "Apricot Delight",
         "categories": ["Dessert", "Veg"],
         "location": [
-        { "id": 1,  "name": "Spicy Venue", "location": "Jubliee Hills"},
-        { "id": 2,  "name": "House of Bagaara", "location": "Inorbit Mall"},
-        { "id": 3,  "name": "Pakka Local", "location": "Kondapur"}
+        { "id": 51,  "name": "Spicy Venue", "location": "Jubliee Hills"},
+        { "id": 52,  "name": "House of Bagaara", "location": "Inorbit Mall"},
+        { "id": 53,  "name": "Pakka Local", "location": "Kondapur"}
           ],
         "comment": "Is a modern twist on the classic Qubani ka Meetha",
         "image": "images/5.png"
@@ -67,8 +67,8 @@
         "name": "Mulberry Malai",
         "categories": ["Dessert", "Veg"],
         "location": [
-        { "id": 1,  "name": "Milan juice Centre", "location": "Charminar, Old Hyderabad"},
-        { "id": 2,  "name": "Nice juice Centre", "location": "Toli Chowki"}
+        { "id": 61,  "name": "Milan juice Centre", "location": "Charminar, Old Hyderabad"},
+        { "id": 62,  "name": "Nice juice Centre", "location": "Toli Chowki"}
           ],
         "comment": "Mixing fresh mulberries (Shahtoot) with a creamy base",
         "image": "images/6.png"
@@ -78,9 +78,9 @@
         "name": "Chaats",
         "categories": ["Snacks", "Veg"],
         "location": [
-        { "id": 1,  "name": "Maharaja Chaat", "location": "Kavuri hills"},
-        { "id": 2,  "name": "Naintara Cafe", "location": "Hitech City"},
-        { "id": 3,  "name": "Gokul Chaat", "location": "Koti"}
+        { "id": 71,  "name": "Maharaja Chaat", "location": "Kavuri hills"},
+        { "id": 72,  "name": "Naintara Cafe", "location": "Hitech City"},
+        { "id": 73,  "name": "Gokul Chaat", "location": "Koti"}
           ],
         "comment": "Known for their explosion of flavors and textures, including sweet, tangy, spicy, and crunchy elements",
         "image": "images/7.png"
