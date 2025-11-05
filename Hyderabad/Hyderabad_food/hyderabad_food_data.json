@@ -10,7 +10,8 @@
         { "id": 11,  "name": "Niloufer Cafe", "location": "Banjara Hills", "link" : "https://maps.app.goo.gl/pqPXHwJSUEu1E7sm6" },
         { "id": 12,  "name": "Nimrah Cafe", "location": "Charminar, Old Hyderabad", "link" : "https://maps.app.goo.gl/LVciPLFH4Wwj2bVx6"},
         { "id": 13,  "name": "Blue Sea Tea", "location": "Secundarbad", "link" : "https://maps.app.goo.gl/Xt3AGTkhAqMjU79S7"},
-        { "id": 14,  "name": "Naintara Cafe", "location": "Hitech City", "link" : "https://maps.app.goo.gl/ijMYKVSCFDm2StYA6"}
+        { "id": 14,  "name": "Naintara Cafe", "location": "Hitech City", "link" : "https://maps.app.goo.gl/ijMYKVSCFDm2StYA6"},
+        { "id": 15,  "name": "Chai Ka Addaa", "location": "Kondapur", "link" : "https://maps.app.goo.gl/MmpZJHrepVNri1sc7"}
           ],
         "comment": "Consisting of a soft, sweet bun generously slathered with butter (maska) and served with a cup of hot tea",
         "image": "images/1.png"
